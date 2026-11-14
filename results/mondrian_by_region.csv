@@ -1,0 +1,19 @@
+region,horizon,Pooled,Mondrian
+Africa,1,84.5,92.1
+Africa,3,86.6,93.3
+Africa,5,84.8,88.3
+Asia,1,85.0,87.1
+Asia,3,84.3,85.7
+Asia,5,81.8,83.6
+Europe,1,95.1,86.5
+Europe,3,94.3,89.8
+Europe,5,92.2,89.4
+North America,1,91.6,76.5
+North America,3,92.4,88.2
+North America,5,88.2,82.4
+Oceania,1,100.0,100.0
+Oceania,3,100.0,100.0
+Oceania,5,100.0,100.0
+South America,1,90.0,75.7
+South America,3,82.9,57.1
+South America,5,84.3,64.3

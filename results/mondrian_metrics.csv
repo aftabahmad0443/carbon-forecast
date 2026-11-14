@@ -1,0 +1,7 @@
+horizon,method,coverage_%,med_rel_width_%,winkler
+1,Pooled,88.42,30.7,78.66
+1,Mondrian,86.83,33.27,77.56
+3,Pooled,88.33,52.72,133.48
+3,Mondrian,87.68,56.39,137.46
+5,Pooled,86.27,65.47,169.64
+5,Mondrian,85.25,70.93,176.16
