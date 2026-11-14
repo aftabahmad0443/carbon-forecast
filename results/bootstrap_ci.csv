@@ -1,0 +1,16 @@
+horizon,quantity,estimate,ci_low,ci_high,excludes_0/90
+1,RF - Naive (logMAE),0.0014,-0.0015,0.0044,False
+1,LSTM - Naive (logMAE),-0.0023,-0.0044,-0.0003,True
+1,LSTM - RF (logMAE),-0.0038,-0.0059,-0.0017,True
+1,RF coverage %,88.8889,86.2745,91.4099,False
+1,LSTM coverage %,89.6359,87.3016,91.8768,False
+3,RF - Naive (logMAE),-0.004,-0.0138,0.0056,False
+3,LSTM - Naive (logMAE),-0.0049,-0.0149,0.005,False
+3,LSTM - RF (logMAE),-0.0008,-0.0051,0.0034,False
+3,RF coverage %,88.3287,85.4342,91.1298,False
+3,LSTM coverage %,88.6088,85.7143,91.3165,False
+5,RF - Naive (logMAE),-0.0204,-0.0378,-0.0032,True
+5,LSTM - Naive (logMAE),-0.0237,-0.0432,-0.005,True
+5,LSTM - RF (logMAE),-0.0033,-0.0096,0.0029,False
+5,RF coverage %,86.4613,82.7264,89.916,True
+5,LSTM coverage %,87.1148,83.4734,90.4762,False

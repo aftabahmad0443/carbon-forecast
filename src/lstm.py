@@ -171,7 +171,7 @@ def main():
         t[f"cov_{m}"] = (y >= lo) & (y <= hi)
         t[f"w_{m}"] = (hi - lo) / np.maximum(p, EPS) * 100
         t[f"wink_{m}"] = winkler(y, lo, hi)
-
+    t.to_csv(RES / "lstm_test_rows.csv", index=False)
     g = t.groupby("horizon")
     out = pd.DataFrame({
         "logMAE_naive": g["ae_naive"].mean(),
