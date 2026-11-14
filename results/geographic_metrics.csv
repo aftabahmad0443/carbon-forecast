@@ -1,0 +1,4 @@
+horizon,logMAE_naive,logMAE_seen,logMAE_unseen,cov_seen_%,cov_unseen_%,medrelwidth_seen_%,medrelwidth_unseen_%,winkler_seen,winkler_unseen
+1,0.075,0.077,0.077,88.889,88.329,30.981,30.73,79.182,77.163
+3,0.134,0.13,0.136,88.329,87.582,52.83,53.911,133.696,137.657
+5,0.196,0.175,0.181,86.461,84.781,65.758,63.777,170.201,170.165
