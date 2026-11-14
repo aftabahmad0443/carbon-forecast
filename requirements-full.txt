@@ -1,0 +1,14 @@
+streamlit>=1.50
+pandas
+numpy
+scipy
+scikit-learn
+xgboost
+shap
+MAPIE
+matplotlib
+plotly
+joblib
+pycountry-convert
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch

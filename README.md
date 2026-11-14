@@ -7,11 +7,11 @@ and conformal prediction intervals, evaluated under temporal and geographical sh
 
 ## Setup
 
-```powershell
 python -m venv venv
 venv\Scripts\activate
-pip install -r requirements.txt
-```
+pip install -r requirements-full.txt
+
+Tested with Python 3.14 on Windows. The Streamlit demo only needs requirements.txt.
 
 Tested with Python 3.14 on Windows. Run all scripts from the project root.
 
